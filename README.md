@@ -1,8 +1,6 @@
+「りあくと！Firebase で始めるサーバーレス React 開発」を理解と練習のためにそのままやるだけ
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `yarn start`
 
