@@ -7,4 +7,4 @@ typings/
 
 node_modules/
 
-src/mangarel-demo-firebase-adminsdk.json
+*firebase-adminsdk*.json
