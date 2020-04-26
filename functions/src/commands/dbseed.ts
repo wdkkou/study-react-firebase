@@ -5,7 +5,7 @@ import parse from "csv-parse/lib/sync";
 
 import { Publisher } from "../services/mangarel/models/publisher";
 import { collectionName } from "../services/mangarel/constants";
-import { addCounter } from "../firesotre-admin/record-counter";
+import { addCounter } from "../firestore-admin/record-counter";
 
 import serviceAccount from "../mangarel-demo-firebase-adminsdk.json";
 
